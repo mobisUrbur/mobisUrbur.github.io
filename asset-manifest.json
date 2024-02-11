@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7092132b.css",
+    "main.js": "./static/js/main.be34e14b.js",
+    "static/media/NotoSans-Thin.otf": "./static/media/NotoSans-Thin.ccfd5564f598f6b082b4.otf",
+    "static/media/NotoSans-Bold.otf": "./static/media/NotoSans-Bold.0476118dfa60ca86b7e3.otf",
+    "static/media/NotoSans-Regular.otf": "./static/media/NotoSans-Regular.1ef18564a8565bc7e1f5.otf",
+    "static/media/safeDrive.png": "./static/media/safeDrive.60d2d453386cc41dab13.png",
+    "static/media/NotoSans-Bold.eot": "./static/media/NotoSans-Bold.97724077fe848cc1c195.eot",
+    "static/media/NotoSans-Regular.eot": "./static/media/NotoSans-Regular.7c7f50cbc536eb2b68e9.eot",
+    "static/media/NotoSans-Bold.woff": "./static/media/NotoSans-Bold.ba396a9fc63ba86c7d0a.woff",
+    "static/media/NotoSans-Regular.woff": "./static/media/NotoSans-Regular.d19c129f30e0373f60b6.woff",
+    "static/media/tmp_notice.jpg": "./static/media/tmp_notice.e63df6bbf5dc58f7a201.jpg",
+    "static/media/NotoSans-Thin.eot": "./static/media/NotoSans-Thin.5f9a1e0f54e8a2bcdbc2.eot",
+    "static/media/NotoSans-Thin.woff": "./static/media/NotoSans-Thin.7a561ac968999a5dade3.woff",
+    "static/media/ico_common.png": "./static/media/ico_common.881e77e5193f113e6d9d.png",
+    "static/media/mobisLogo.png": "./static/media/mobisLogo.10bdb5e0400afc525860.png",
+    "static/media/mapTest.png": "./static/media/mapTest.2266e536685b8d17da02.png",
+    "static/media/question_mark.jpg": "./static/media/question_mark.2a421e7f09febd33705d.jpg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.7092132b.css.map": "./static/css/main.7092132b.css.map",
+    "main.be34e14b.js.map": "./static/js/main.be34e14b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7092132b.css",
+    "static/js/main.be34e14b.js"
+  ]
+}
