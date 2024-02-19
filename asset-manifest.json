@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.39b7f53f.css",
-    "main.js": "./static/js/main.979789fa.js",
+    "main.css": "./static/css/main.9c92dc18.css",
+    "main.js": "./static/js/main.cfff2b39.js",
     "static/media/NotoSans-Thin.otf": "./static/media/NotoSans-Thin.ccfd5564f598f6b082b4.otf",
     "static/media/NotoSans-Bold.otf": "./static/media/NotoSans-Bold.0476118dfa60ca86b7e3.otf",
     "static/media/NotoSans-Regular.otf": "./static/media/NotoSans-Regular.1ef18564a8565bc7e1f5.otf",
@@ -9,7 +9,6 @@
     "static/media/NotoSans-Regular.eot": "./static/media/NotoSans-Regular.7c7f50cbc536eb2b68e9.eot",
     "static/media/NotoSans-Bold.woff": "./static/media/NotoSans-Bold.ba396a9fc63ba86c7d0a.woff",
     "static/media/NotoSans-Regular.woff": "./static/media/NotoSans-Regular.d19c129f30e0373f60b6.woff",
-    "static/media/tmp_notice.jpg": "./static/media/tmp_notice.e63df6bbf5dc58f7a201.jpg",
     "static/media/NotoSans-Thin.eot": "./static/media/NotoSans-Thin.5f9a1e0f54e8a2bcdbc2.eot",
     "static/media/NotoSans-Thin.woff": "./static/media/NotoSans-Thin.7a561ac968999a5dade3.woff",
     "static/media/appExam1.png": "./static/media/appExam1.b63414f6cb385994e697.png",
@@ -22,11 +21,11 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.39b7f53f.css.map": "./static/css/main.39b7f53f.css.map",
-    "main.979789fa.js.map": "./static/js/main.979789fa.js.map"
+    "main.9c92dc18.css.map": "./static/css/main.9c92dc18.css.map",
+    "main.cfff2b39.js.map": "./static/js/main.cfff2b39.js.map"
   },
   "entrypoints": [
-    "static/css/main.39b7f53f.css",
-    "static/js/main.979789fa.js"
+    "static/css/main.9c92dc18.css",
+    "static/js/main.cfff2b39.js"
   ]
 }
