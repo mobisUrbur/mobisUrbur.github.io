@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9c92dc18.css",
-    "main.js": "./static/js/main.69a82789.js",
+    "main.css": "./static/css/main.d92b5b66.css",
+    "main.js": "./static/js/main.3b6e5549.js",
     "static/media/NotoSans-Thin.otf": "./static/media/NotoSans-Thin.ccfd5564f598f6b082b4.otf",
     "static/media/NotoSans-Bold.otf": "./static/media/NotoSans-Bold.0476118dfa60ca86b7e3.otf",
     "static/media/NotoSans-Regular.otf": "./static/media/NotoSans-Regular.1ef18564a8565bc7e1f5.otf",
@@ -11,6 +11,7 @@
     "static/media/NotoSans-Regular.woff": "./static/media/NotoSans-Regular.d19c129f30e0373f60b6.woff",
     "static/media/NotoSans-Thin.eot": "./static/media/NotoSans-Thin.5f9a1e0f54e8a2bcdbc2.eot",
     "static/media/NotoSans-Thin.woff": "./static/media/NotoSans-Thin.7a561ac968999a5dade3.woff",
+    "static/media/urbr_wasm_bg.wasm": "./static/media/urbr_wasm_bg.a44a971ba21a59627d51.wasm",
     "static/media/appExam1.png": "./static/media/appExam1.b63414f6cb385994e697.png",
     "static/media/ico_common.png": "./static/media/ico_common.881e77e5193f113e6d9d.png",
     "static/media/appExam2.png": "./static/media/appExam2.28098d335a1de54ecb70.png",
@@ -21,11 +22,11 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.9c92dc18.css.map": "./static/css/main.9c92dc18.css.map",
-    "main.69a82789.js.map": "./static/js/main.69a82789.js.map"
+    "main.d92b5b66.css.map": "./static/css/main.d92b5b66.css.map",
+    "main.3b6e5549.js.map": "./static/js/main.3b6e5549.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c92dc18.css",
-    "static/js/main.69a82789.js"
+    "static/css/main.d92b5b66.css",
+    "static/js/main.3b6e5549.js"
   ]
 }
